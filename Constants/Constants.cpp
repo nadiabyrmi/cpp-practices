@@ -3,13 +3,13 @@ using namespace std;
 int main()
 {
 	// just playing with constants
-	const string name = "Nadia bayrami";
-	const char letter = 'a';
-	const int number = 9330829610;
-	const float height = 173.5;
-	const bool characteristic = true;
-	const double pi = 3.14159265358979323856;
-	cout << "name is: " << name << " ,letter is: " << letter << " ,number is: " << number << " ,height is:" << height << " ,characterestic is: " << characteristic << " ,pi is: " << pi << endl;
+	const string NAME = "Nadia bayrami";
+	const char LETTER = 'a';
+	const int NUMBER = 9330829610;
+	const float HEIGHT = 173.5;
+	const bool CHARACTERISTIC = true;
+	const double PI = 3.14159265358979323856;
+	cout << "name is: " << NAME << " ,letter is: " << LETTER << " ,number is: " << NUMBER << " ,height is:" << HEIGHT << " ,characterestic is: " << CHARACTERISTIC << " ,pi is: " << PI << endl;
 	return 0;
 }
 
