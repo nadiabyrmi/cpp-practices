@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Double Guardian", "Double Guardian.vcxproj", "{78DAC12A-0E99-4F48-BBEC-88795ED133B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Debug|x64.ActiveCfg = Debug|x64
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Debug|x64.Build.0 = Debug|x64
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Debug|x86.Build.0 = Debug|Win32
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Release|x64.ActiveCfg = Release|x64
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Release|x64.Build.0 = Release|x64
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Release|x86.ActiveCfg = Release|Win32
+		{78DAC12A-0E99-4F48-BBEC-88795ED133B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {327481A5-85CF-4F76-9D86-36E2E535B67D}
+	EndGlobalSection
+EndGlobal
